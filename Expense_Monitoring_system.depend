@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1492853066 source:d:\expense tracking system\expense_monitoring_system\welcome_screen.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1493205786 source:d:\expense tracking system\expense_monitoring_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"header_file.h"
+
+1491902693 d:\expense tracking system\expense_monitoring_system\welcome_screen.c
+	<stdio.h>
+	<stdlib.h>
+
+1492851901 d:\expense tracking system\expense_monitoring_system\header_file.h
+	<stdio.h>
+	<stdbool.h>
+
+1493209860 source:d:\expense tracking system\expense_monitoring_system\database.c
+	<stdio.h>
+	<mysql.h>
+	<string.h>
+
